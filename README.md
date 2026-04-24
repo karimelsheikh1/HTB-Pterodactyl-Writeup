@@ -328,4 +328,4 @@ cat /root/root.txt
 
 ---
 
-*Writeup by [Your Name] | HackTheBox Season 10*
+*Writeup by [kareem elsheikh] | HackTheBox Season 10*
